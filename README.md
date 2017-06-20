@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+I just want to code all day! 
+
+#include<stdio.h>
