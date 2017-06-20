@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I just want to code all day. That's all I want to do.
